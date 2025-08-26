@@ -1,0 +1,4 @@
+requests==2.31.0
+mypy==1.9.0
+wemake-python-styleguide==0.19.2
+pytest==8.2.0
