@@ -26,11 +26,12 @@ A small Python client for \[The Guardian Content API](https://open-platform.theg
 
 ```bash
 
-git clone https://github.com/yourusername/Guardian.git
+git clone https://github.com/chillanki/guardian-api-client.git
 
-cd Guardian
+cd guardian-api-client
 
 pip install -r requirements.txt
+
 
 
 
